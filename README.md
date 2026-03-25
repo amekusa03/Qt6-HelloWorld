@@ -8,6 +8,14 @@
 - 開発環境: Qt Creator と Qt 6.x
 - リポジトリ: https://github.com/amekusa03/Qt6-HelloWorld
 
+## Qiita記事
+
+[本ツールの解説記事 (Qiita)](https://qiita.com/amekusa03/items/79fe702be160c37c06c8)
+
+## 紹介動画
+
+[![紹介動画](https://img.youtube.com/vi/v86BQykeWFY/maxresdefault.jpg)](https://youtu.be/v86BQykeWFY?si=ZmMB2RJrHV_AEl-Z)
+
 ## 🛠 動作確認手順
 
 1. Qt Creator をインストールします（Qt 6.10.2 など）。
